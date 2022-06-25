@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+	margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotroon {
+	background-color: rgb(114, 124, 124);
+    background-size: cover;
+    background-position: center;
+    height: 650px ;
+    font-family: sans-serif;
+}
+.jumbotroon .display-6{
+	margin-top: 50px;
+	margin-left: 20px;
+}
+.jumbotroon .lead {
+	margin-top: 50px;
+	margin-left: 25px;
+}
+
+.jumbotroon .br {
+	margin-left:  50px;
+}
+.container {
+	margin-top: 100px;
+		
+}
+
+.tr {
+	height: 50px;
+	width: 50px;
+}
